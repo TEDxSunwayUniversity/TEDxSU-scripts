@@ -2,6 +2,11 @@
 
 A collection of scripts created for TEDxSunwayUniversity
 
+Remember to `npm install` before running any of the scripts.
+
+Packages installed:
+- puppeteer
+
 ### 2018 Student Speaker Voting Script
 
 `2018-studentspeaker-fb-voting.js`
