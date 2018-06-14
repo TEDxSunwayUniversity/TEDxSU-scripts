@@ -9,7 +9,8 @@
   "author": "potateros",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^1.3.0"
+    "puppeteer": "^1.5.0",
+    "typescript": "^2.9.2"
   },
   "devDependencies": {},
   "repository": {
